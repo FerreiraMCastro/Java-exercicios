@@ -3,7 +3,7 @@
  *
  * This code implements the Aho-Corasick algorithm, which is used for efficient
  * string matching in a given text. It can find multiple patterns simultaneously
- * and records their positions in the text.
+ * and records their positions in the text...
  *
  * Author: Prabhat-Kumar-42
  * GitHub: https://github.com/Prabhat-Kumar-42
