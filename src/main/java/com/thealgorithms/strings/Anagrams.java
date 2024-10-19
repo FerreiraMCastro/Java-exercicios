@@ -115,7 +115,7 @@ public final class Anagrams {
 
     /**
      * Checks if two strings are anagrams using an array to track character frequencies.
-     * This approach optimizes space complexity by using only one array.
+     * This approach optimizes space complexity by using only one array..
      * Time Complexity: O(n)
      * Space Complexity: O(1)
      *
